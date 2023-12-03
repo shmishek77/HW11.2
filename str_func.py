@@ -1,10 +1,7 @@
 def upper(text):
     """
-    Make all letters big
+    Make letters big
     """
-"""
-Make letters big
-"""
     return text.upper()
 
 
